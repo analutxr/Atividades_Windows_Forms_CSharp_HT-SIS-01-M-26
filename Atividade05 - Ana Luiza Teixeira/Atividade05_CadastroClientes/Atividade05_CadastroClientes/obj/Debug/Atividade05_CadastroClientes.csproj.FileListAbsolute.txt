@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\SharpDevelop Projects\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\bin\Debug\Atividade05_CadastroClientes.exe.config
+C:\Users\User\OneDrive\Documentos\SharpDevelop Projects\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\bin\Debug\Atividade05_CadastroClientes.exe
+C:\Users\User\OneDrive\Documentos\SharpDevelop Projects\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\bin\Debug\Atividade05_CadastroClientes.pdb
+C:\Users\User\OneDrive\Documentos\SharpDevelop Projects\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\SharpDevelop Projects\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.MainForm.resources
+C:\Users\User\OneDrive\Documentos\SharpDevelop Projects\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Documentos\SharpDevelop Projects\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.exe
+C:\Users\User\OneDrive\Documentos\SharpDevelop Projects\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.pdb
+C:\Projetos SD\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\bin\Debug\Atividade05_CadastroClientes.exe.config
+C:\Projetos SD\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\bin\Debug\Atividade05_CadastroClientes.exe
+C:\Projetos SD\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\bin\Debug\Atividade05_CadastroClientes.pdb
+C:\Projetos SD\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Projetos SD\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.MainForm.resources
+C:\Projetos SD\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.csproj.GenerateResource.Cache
+C:\Projetos SD\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.exe
+C:\Projetos SD\HT-SIS-01-M-26_Ana_Luiza_Teixeira\Atividade05\Atividade05_CadastroClientes\Atividade05_CadastroClientes\obj\Debug\Atividade05_CadastroClientes.pdb
